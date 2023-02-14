@@ -19,10 +19,6 @@ Thanks for checking out this Application.
 
 - React Js
 - Node js
-- Express
-- mongooDB
-- contextApi
-- react router dom
 - tailwind css
 - JavaScript
 - JSX
